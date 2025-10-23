@@ -1,0 +1,29 @@
+# 🛰️ Samsung Services
+# Galaxy Store / Themes / Account
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,galaxythemes.com
+DOMAIN-SUFFIX,samsungaccount.com
+DOMAIN-SUFFIX,samsungdm.com
+DOMAIN-SUFFIX,samsungotn.net
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungcloudcdn.com
+DOMAIN-SUFFIX,samsungcloudsolution.com
+DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungqbe.com
+DOMAIN-SUFFIX,ospserver.net
+DOMAIN-SUFFIX,smartthings.com
+DOMAIN-SUFFIX,tizen.org
+DOMAIN-SUFFIX,tizenstore.com
+DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,samsungpay.com
+DOMAIN-SUFFIX,samsungpay.net
+DOMAIN-SUFFIX,samsungdive.com
+DOMAIN-SUFFIX,samsunghealth.com
+DOMAIN-SUFFIX,samsungcloudsolution.com
+
+# Samsung CDN / Sync / OTN Updates
+DOMAIN-SUFFIX,samsungotn.net
+DOMAIN-SUFFIX,samsungcloudcdn.com
+
+DOMAIN-KEYWORD,samsung
